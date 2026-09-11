@@ -1,0 +1,23 @@
+Cardiology: Chest pain, pressure, or tightness, especially when combined with shortness of breath, sweating, dizziness, or pain radiating to the arm, neck, or jaw, may indicate a heart-related condition. A Cardiologist specializes in heart and blood vessel conditions.
+
+Neurology: Recurring headaches, migraines, dizziness, numbness or tingling in limbs, memory problems, seizures, or fainting spells are typically evaluated by a Neurologist, who specializes in the brain and nervous system.
+
+Dermatology: Skin rashes, unusual or changing moles, persistent itching, acne, hair loss, or nail abnormalities are typically evaluated by a Dermatologist, who specializes in skin, hair, and nails.
+
+Gastroenterology: Abdominal pain, persistent nausea, vomiting, diarrhea, constipation, heartburn, or blood in stool are typically evaluated by a Gastroenterologist, who specializes in the digestive system.
+
+Rheumatology: Persistent joint pain, swelling, stiffness lasting more than six weeks, or symptoms suggestive of autoimmune conditions are typically evaluated by a Rheumatologist.
+
+Orthopedics: Bone fractures, joint injuries, sports injuries, back pain, or musculoskeletal pain from a specific injury are typically evaluated by an Orthopedic specialist.
+
+Pulmonology: Persistent cough, wheezing, difficulty breathing not related to a cardiac cause, or chronic lung conditions are typically evaluated by a Pulmonologist, who specializes in the lungs and respiratory system.
+
+Endocrinology: Symptoms like unexplained weight changes, excessive thirst, fatigue, or hormonal imbalances are typically evaluated by an Endocrinologist, who specializes in hormones and metabolism.
+
+Psychiatry: Persistent low mood, anxiety, sleep disturbances, changes in appetite, or thoughts of self-harm are typically evaluated by a Psychiatrist, who specializes in mental health. If there is any risk of immediate self-harm, emergency services should be contacted right away.
+
+Pediatrics: Children under 18 years old with any medical symptoms should generally be evaluated by a Pediatrician first, who can refer to a relevant specialist if needed.
+
+General Physician: Mild, general, or unclear symptoms that don't clearly point to a specific specialty, such as mild fever, fatigue, or minor aches, are typically first evaluated by a General Physician, who can refer to a specialist if needed.
+
+Emergency Medicine: Severe chest pain, difficulty breathing, signs of stroke (face drooping, arm weakness, slurred speech), severe bleeding, loss of consciousness, or any life-threatening symptom requires immediate evaluation by Emergency Medicine — call emergency services or go to the nearest emergency room right away.
